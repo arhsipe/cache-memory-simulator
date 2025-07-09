@@ -99,9 +99,9 @@ public class Cache_simulator {
         for (int i = 0; i < ram.length; i++) {
             ram[i] = (int) (Math.random() * 1000);
             System.out.printf("%4d [%3d]   ", ram[i], i);
-            // Print newline every 10 elements for readability
-            if (i % 10 == 7) {
-                System.out.println();
+           // Print a newline every 16 elements for readability
+        if ((i + 1) % 16 == 0) {
+            System.out.println();
             }
         }
         System.out.println();
