@@ -1,6 +1,6 @@
 # Cache Memory Simulator
 
-This project implements a simple RAM and cache memory simulator in Java, with the goal of demonstrating, in a practical and educational way, how cache memory works internally in a computer system.
+This project implements a simple RAM and cache memory simulator in Java, aiming to demonstrate, in a practical and educational way, how cache memory works internally in a computer system. It was originally developed as a college assignment, and I found it valuable to share on GitHub for reference and learning purposes.
 
 ---
 
